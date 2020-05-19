@@ -1,5 +1,5 @@
 # Matching
-SAS code used for data analysis described in the publication: 
+SAS code used for data analysis described in the following publication is provided in this directory. 
 
 Li Y, Schaubel DE and He K. Matching methods for obtaining survival functions to estimate the effect of a time-dependent treatment. Statistics in Biosciences. (2013). 1-22.
 
